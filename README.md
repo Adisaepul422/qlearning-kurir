@@ -42,3 +42,4 @@ Notebook bersifat mandiri (seluruh kode lingkungan dan Q-Learning ada di dalamny
 | Konvergensi | episode ≈ 2322 | tidak konvergen |
 
 Semua eksperimen memakai seed tetap sehingga dapat direproduksi. Angka bisa sedikit berbeda jika versi NumPy berbeda.
+# qlearning-kurir
