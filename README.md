@@ -43,3 +43,4 @@ Notebook bersifat mandiri (seluruh kode lingkungan dan Q-Learning ada di dalamny
 
 Semua eksperimen memakai seed tetap sehingga dapat direproduksi. Angka bisa sedikit berbeda jika versi NumPy berbeda.
 # qlearning-kurir
+# qlearning-kurir
